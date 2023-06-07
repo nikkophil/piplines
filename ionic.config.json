@@ -1,0 +1,8 @@
+{
+  "name": "piplines",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "25e68dfb"
+}
